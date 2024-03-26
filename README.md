@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Project Title: KhumaloCraft Emporium
 
 ## Description
@@ -52,3 +53,6 @@ Thank you for using KhumaloCraft Emporium! We hope you enjoy exploring our colle
 
 
 >>>>>>> 1abe842 (inital commit)
+=======
+# Khumalo's Craft e-commerce platform
+>>>>>>> 587205a (feat: added media topages)
