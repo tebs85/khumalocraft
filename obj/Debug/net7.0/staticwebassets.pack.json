@@ -57,6 +57,34 @@
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/images/andres-jasso-ssbgw3cKdXg-unsplash.jpg",
+      "PackagePath": "staticwebassets/images/andres-jasso-ssbgw3cKdXg-unsplash.jpg"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/images/kam-idris-_HqHX3LBN18-unsplash.jpg",
+      "PackagePath": "staticwebassets/images/kam-idris-_HqHX3LBN18-unsplash.jpg"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/images/mitch-moondae-zXFtsdi9dIc-unsplash.jpg",
+      "PackagePath": "staticwebassets/images/mitch-moondae-zXFtsdi9dIc-unsplash.jpg"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/images/phillip-goldsberry-fZuleEfeA1Q-unsplash.jpg",
+      "PackagePath": "staticwebassets/images/phillip-goldsberry-fZuleEfeA1Q-unsplash.jpg"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/images/pierre-chatel-innocenti-pxoZSTdAzeU-unsplash.jpg",
+      "PackagePath": "staticwebassets/images/pierre-chatel-innocenti-pxoZSTdAzeU-unsplash.jpg"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/images/sarah-dorweiler-7tFlUFGa7Dk-unsplash.jpg",
+      "PackagePath": "staticwebassets/images/sarah-dorweiler-7tFlUFGa7Dk-unsplash.jpg"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/images/spacejoy-IH7wPsjwomc-unsplash.jpg",
+      "PackagePath": "staticwebassets/images/spacejoy-IH7wPsjwomc-unsplash.jpg"
+    },
+    {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.KhumaloCraft.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
