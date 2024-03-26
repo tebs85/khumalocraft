@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/obj/Debug/net7.0/scopedcss/projectbundle/KhumaloCraft.bundle.scp.css",
+      "PackagePath": "staticwebassets/KhumaloCraft.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/tebogo.moloi/Projects/KhumaloCraft/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.KhumaloCraft.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.KhumaloCraft.props",
+      "PackagePath": "build\\KhumaloCraft.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.KhumaloCraft.props",
+      "PackagePath": "buildMultiTargeting\\KhumaloCraft.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.KhumaloCraft.props",
+      "PackagePath": "buildTransitive\\KhumaloCraft.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
