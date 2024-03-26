@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title: KhumaloCraft Emporium
 
 ## Description
@@ -46,3 +47,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For inquiries or support related to KhumaloCraft Emporium, please contact us at [contact@khumalocraft.com](mailto:contact@khumalocraft.com).
 
 Thank you for using KhumaloCraft Emporium! We hope you enjoy exploring our collection of handcrafted products
+=======
+# Khumalo's Craft e-commerce platform
+
+
+>>>>>>> 1abe842 (inital commit)
