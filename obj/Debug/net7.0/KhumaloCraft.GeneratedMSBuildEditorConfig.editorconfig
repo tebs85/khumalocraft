@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KhumaloCraft
+build_property.RootNamespace = KhumaloCraft
+build_property.ProjectDir = /Users/tebogo.moloi/Projects/KhumaloCraft/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/tebogo.moloi/Projects/KhumaloCraft
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Pages/AboutUs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXRVcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Pages/ContactUs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdFVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Pages/MyWork.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTXlXb3JrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6jb9d090xb
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mtaj2s7215
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tebogo.moloi/Projects/KhumaloCraft/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
