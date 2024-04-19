@@ -9,7 +9,6 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<AuthService>();
 builder.Services.AddSingleton<ProductService>();
-builder.Services.AddSingleton<OrderService>();
 builder.Services.AddSingleton<CategoryService>();
 
 
