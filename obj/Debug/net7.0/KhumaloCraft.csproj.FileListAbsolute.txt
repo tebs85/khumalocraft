@@ -6,6 +6,7 @@
 /Users/tebogo.moloi/Projects/KhumaloCraft/obj/Debug/net7.0/KhumaloCraft.MvcApplicationPartsAssemblyInfo.cache
 /Users/tebogo.moloi/Projects/KhumaloCraft/obj/Debug/net7.0/KhumaloCraft.RazorAssemblyInfo.cache
 /Users/tebogo.moloi/Projects/KhumaloCraft/obj/Debug/net7.0/KhumaloCraft.RazorAssemblyInfo.cs
+<<<<<<< HEAD
 /Users/tebogo.moloi/Projects/KhumaloCraft/bin/Debug/net7.0/appsettings.Development.json
 /Users/tebogo.moloi/Projects/KhumaloCraft/bin/Debug/net7.0/appsettings.json
 /Users/tebogo.moloi/Projects/KhumaloCraft/bin/Debug/net7.0/KhumaloCraft.staticwebassets.runtime.json
@@ -37,3 +38,5 @@
 /Users/tebogo.moloi/Projects/KhumaloCraft/obj/Debug/net7.0/KhumaloCraft.pdb
 /Users/tebogo.moloi/Projects/KhumaloCraft/obj/Debug/net7.0/KhumaloCraft.genruntimeconfig.cache
 /Users/tebogo.moloi/Projects/KhumaloCraft/obj/Debug/net7.0/ref/KhumaloCraft.dll
+=======
+>>>>>>> 8323da9 (feat: added new features)
