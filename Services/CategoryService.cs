@@ -1,9 +1,9 @@
-namespace KhumaloCraft.Services;
-
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using KhumaloCraft.Models;
+
+namespace KhumaloCraft.Services;
 
 public class CategoryService
 {

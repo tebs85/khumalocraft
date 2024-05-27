@@ -1,6 +1,5 @@
 ﻿<Properties StartupConfiguration="{C96B4D87-E713-4312-A84C-BFDA712CDC64}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.KhumaloCraft PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="31" Column="1" />
@@ -8,16 +7,17 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="KhumaloCraft">
-            <Node name="KhumaloCraft">
-              <Node name="Program.cs" selected="True" />
+          <Node name="KhumaloCraft" expanded="True">
+            <Node name="KhumaloCraft" expanded="True">
+              <Node name="App.razor" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KhumaloCraft PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
